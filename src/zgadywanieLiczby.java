@@ -39,5 +39,3 @@ public static void pozostałePróby(int i){
     int x = 10 - i;
     System.out.println("Pozostało " + x + " Prób");
 }
-//123
-
