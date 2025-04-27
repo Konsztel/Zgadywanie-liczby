@@ -39,10 +39,3 @@ public static void pozostałePróby(int i){
     int x = 10 - i;
     System.out.println("Pozostało " + x + " Prób");
 }
-
-
-//Na koniec po zgadnięciu pytać czy chcesz zagrać ponownie
-//Zapytać też po przekroczeniue 10 prób czy chce zagrać ponownie
-
-//Sprawdzanie czy wprowadzono poprawne dane
-
