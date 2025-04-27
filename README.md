@@ -26,11 +26,11 @@ Program informuje użytkownika, czy podana liczba jest za duża czy za mała, or
 - Wskazówki: "za duża" lub "za mała" liczba
 - Liczenie liczby prób użytkownika
 - Komunikat końcowy po poprawnym odgadnięciu
-- Limit prób (maksymalnie 10 prób)
 
 ---
 
 ## Przyszłe usprawnienia (opcjonalnie)
+- Limit prób (maksymalnie 10 prób)
 - Możliwość gry ponownie po odgadnięciu liczby
 - Wersja graficzna (GUI) przy użyciu JavaFX
 
